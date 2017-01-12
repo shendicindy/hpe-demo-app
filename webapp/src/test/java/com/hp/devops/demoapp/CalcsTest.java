@@ -32,7 +32,7 @@ public class CalcsTest {
 
 	@Test
 	public void eq_test_A() {
-		assertTrue(Calcs.equal(1, 1));
+		assertTrue(Calcs.equal(1, 2));
 	}
 
 	@Test
